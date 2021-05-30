@@ -185,7 +185,7 @@ input:focus{
 .shortened-links{
     width:80%;
     margin: auto;
-    padding-bottom: 12.5rem;
+    padding-bottom:9rem;
     position: relative;
     top:80px;
 }
