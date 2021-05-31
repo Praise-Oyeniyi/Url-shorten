@@ -506,6 +506,9 @@ footer{
     
 }
 @media(max-width:600px){
+    .body{
+        cursor:none;
+    }
     .desktop{
         display: none;
         pointer-events: none;
