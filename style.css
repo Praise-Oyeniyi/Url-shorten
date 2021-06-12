@@ -423,7 +423,7 @@ footer{
     .shortened-output{
         width:95%;
         text-overflow:scroll;
-        overflow: hidden;
+        overflow: auto;
         margin: auto;
         align-self: flex-start;
         padding-left:10px;
